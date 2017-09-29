@@ -1,0 +1,14 @@
+.helloInput {
+  width: 50%;
+  margin-top:12%;
+}
+#response{
+	width: 100%;
+	text-align:center;
+	color: #fff !important;
+	margin-top: 20% ;
+}
+body{
+	background-color: #2c2a2a !important;
+	color: #bdbaba !important;
+}
